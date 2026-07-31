@@ -5,8 +5,8 @@
 %global crate lru_time_cache
 
 Name:           rust-%{crate}
-Version:        0.8.1
-Release:        5%{?dist}
+Version:        0.11.11
+Release:        1%{?dist}
 Summary:        Implementation of a Least Recently Used caching algorithm
 
 # Upstream license specification: MIT OR BSD-3-Clause
